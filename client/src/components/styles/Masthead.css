@@ -1,0 +1,17 @@
+@media (min-width: inital) {
+    .navbar-expand-lg {
+        flex-wrap: initial;
+        justify-content: initial;
+    }
+}
+
+.navbar-tog {
+    background-color: initial;
+
+}
+
+.navbar {
+    padding-left: 10px; 
+    height: 60px;
+  }
+  
