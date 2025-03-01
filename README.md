@@ -1,3 +1,7 @@
+## Third-Party Dependencies
+This project uses third-party libraries and external APIs (e.g., OpenAI). Their respective licenses and terms of service apply. This project is licensed under MIT, but usage of third-party services must comply with their own terms.
+
+
 This application was inspired by my need to use GPT4 API calls ad-hoc rather than paying a monthly fee for Chat GPT.
 
 All of the code for this project was written by AI through prompt engineering.
